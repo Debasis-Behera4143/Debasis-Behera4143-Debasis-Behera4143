@@ -24,8 +24,9 @@ I’m a student passionate about **problem-solving, development, and creating im
 
 
 ## 🔗 Connect with Me  
-- [LinkedIn] (www.linkedin.com/in/debasis-behera4143
+- [LinkedIn] www.linkedin.com/in/debasis-behera4143
 - [Email] debasisbehera229@gmail.com
+- [leetcode] https://leetcode.com/u/debasisbehera229/
 
 ---
 
