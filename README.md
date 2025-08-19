@@ -1,13 +1,13 @@
 # Hi there, I'm Debasis 👋  
 
-💻 **C++ Programmer | Web Developer in Progress | Lifelong Learner**  
+💻 **C++ Programmer | Web Developer in Progress | AI ML Learner**  
 
 I’m a student passionate about **problem-solving, development, and creating impactful projects**. Currently exploring the world of **Data Structures & Algorithms in C++** while building projects that combine creativity with technology.  
 
 ---
 
 ## 🚀 What I'm Working On  
-- ⚡ **Data Structures & Algorithms (C++)**  
+- ⚡ **Data Structures & Algorithms (C++)**
 - 🎨 **Full-Stack Web Development** (HTML, CSS, JS, Node.js, React, MongoDB)  
 - ⚙️ **Backend Development** (APIs, Databases, Authentication)  
 - 🌐 Expanding my skills in **Web Development (HTML, CSS, JS, Node.js)**  
