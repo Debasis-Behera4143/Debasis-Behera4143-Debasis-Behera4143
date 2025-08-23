@@ -1,4 +1,4 @@
-# Hi there, I'm Debasis 👋  
+# Hi there, I'm Debasis Behera👋  
 
 **💻 C++ Programmer | Aspiring Full-Stack Developer | AI & ML Enthusiast**  
 
