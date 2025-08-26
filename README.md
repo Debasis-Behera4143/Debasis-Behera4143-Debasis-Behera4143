@@ -28,7 +28,7 @@ Currently mastering **Data Structures & Algorithms in C++** and working on **rea
 ## 💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debasis-Behera4143&layout=compact&theme=radical)
 
-## 🥩 GitHub Streak (Steaks 🔥)
+## 💻 GitHub Streak (Steaks 🔥)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Debasis-Behera4143&theme=radical)
 
 
