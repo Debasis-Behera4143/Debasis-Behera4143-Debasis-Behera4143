@@ -19,18 +19,18 @@ Currently mastering **Data Structures & Algorithms in C++** and working on **rea
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>  
 
----
+---  
+<P>
+##  GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debasis-Behera4143&show_icons=true&theme=radical)
 
-## 📊 GitHub Stats  
+##  Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debasis-Behera4143&layout=compact&theme=radical)
+</P>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debasis-Behera4143&show_icons=true&theme=radical" alt="Debasis's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debasis-Behera4143&theme=radical" alt="GitHub Streak" height="165"/>
-</p>  
+##  GitHub Streak (Steaks 🥩)
+![GitHub Streak](https://streak-stats.demolab.com?user=Debasis-Behera4143&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debasis-Behera4143&layout=compact&theme=radical" alt="Top Languages"/>
-</p>  
 
 ---
 
