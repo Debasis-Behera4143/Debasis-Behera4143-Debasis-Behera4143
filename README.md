@@ -20,15 +20,15 @@ Currently mastering **Data Structures & Algorithms in C++** and working on **rea
 </p>  
 
 ---  
-<P>
-##  GitHub Stats
+# 📊 My GitHub Journey
+
+## 🚀 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debasis-Behera4143&show_icons=true&theme=radical)
 
-##  Most Used Languages
+## 💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debasis-Behera4143&layout=compact&theme=radical)
-</P>
 
-##  GitHub Streak (Steaks 🥩)
+## 🥩 GitHub Streak (Steaks 🔥)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Debasis-Behera4143&theme=radical)
 
 
